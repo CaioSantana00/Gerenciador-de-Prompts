@@ -40,10 +40,9 @@ O objetivo principal é **organizar prompts de IA**, mas a estrutura pode ser fa
  📦 Gerenciador-de-Prompts/
 │
 ├── assets/         → Ícones e recursos visuais
-├──index.html      → Estrutura principal da aplicação
+├──index.html       → Estrutura principal da aplicação
 ├── style.css       → Estilos da interface
 ├── script.js       → Lógica do gerenciador de prompts
-├── README.md       → Documentação do projeto
 ```
 
 ---
