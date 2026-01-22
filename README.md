@@ -37,19 +37,15 @@ O objetivo principal é **organizar prompts de IA**, mas a estrutura pode ser fa
 ## 📂 Estrutura do Projeto
 
 ```text
- 📦 Gerenciador-de-Prompts/
-│
-├── assets/         → Ícones e recursos visuais
-├──index.html       → Estrutura principal da aplicação
-├── style.css       → Estilos da interface
-├── script.js       → Lógica do gerenciador de prompts
+ ┣  📜 assets/      -→ Ícones e recursos visuais
+ ┣  📜 index.html   -→ Estrutura principal da aplicação
+ ┣  📜 style.css    -→ Estilos da interface
+ ┗  📜 script.js    -→ Lógica do gerenciador de prompts
 ```
 
 ---
 
 ## 🧠 Conteúdos Aprendidos e Aplicados
-
-Durante o desenvolvimento deste projeto, foram praticados e consolidados os seguintes conceitos:
 
 ### 💡 Front-end
 - Estruturação de páginas com **HTML**
@@ -72,9 +68,9 @@ Durante o desenvolvimento deste projeto, foram praticados e consolidados os segu
 
 ## 🚀 Como Executar o Projeto Localmente
 
-1. Clone o repositório:
+1. Clone o repositório abaixo:
 ```bash
-git clone https://github.com/CaioSantana00/Gerenciador-de-Prompts.git
+https://github.com/CaioSantana00/Gerenciador-de-Prompts.git
 ```
 
 2. Acesse a pasta do projeto:
